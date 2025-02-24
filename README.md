@@ -19,7 +19,7 @@ SearXNG Researcher is an AI-powered research assistant that continuously searche
 To use SearXNG Researcher, you will need:
 
 - **Google Gemini API key** (Free-tier available at [Google AI](https://ai.google.dev/))
-- **Self-hosted SearXNG instance** ([Setup instructions](https://docs.searxng.org/))
+- **Self-hosted SearXNG instance** ([Setup instructions](https://github.com/searxng/searxng))
 - **Python dependencies**: `beautifulsoup4`, `httpx`, `asyncio`, `gradio` (for UI, optional)
 
 ## Setup
