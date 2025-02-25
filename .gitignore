@@ -1,3 +1,5 @@
 .env
 notebook-output
 searxng-test.py
+reports/*
+!reports/example-report.md
